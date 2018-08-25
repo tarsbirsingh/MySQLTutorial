@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySQL Tutorial</string>
+    <string name="Introduction">Introduction</string>
+    <string name="Tutorial">Tutorial</string>
+    <string name="About_tutor">About Tutor</string>
+    <string name="Ask_question">Ask Question</string>
+</resources>
