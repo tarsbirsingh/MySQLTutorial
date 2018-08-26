@@ -4,6 +4,7 @@
     android:layout_height="80dp"
     android:padding="6dip" >
 <TextView
+    android:id="@+id/text"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:textSize="24sp"
